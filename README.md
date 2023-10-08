@@ -1,4 +1,3 @@
-Tentu, berikut adalah contoh README file yang dapat Anda gunakan untuk proyek Anda di GitHub:
 
 ```markdown
 # Program Penghitung Jarak Dua Titik
