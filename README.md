@@ -36,12 +36,44 @@ Hasil perhitungan jarak kemudian ditampilkan di layar.
 
 4. Ikuti petunjuk yang muncul di layar untuk memasukkan koordinat titik-titik yang ingin Anda hitung jaraknya.
 
-## Penulis
 
-Program ini ditulis oleh:
+```markdown
+# Konversi Jam ke Detik
 
-- Nama: Rayhan Alsauqi
-- NIM: 120103041
-- Tanggal Pembuatan: 4 Oktober 2023
-- Tanggal Revisi: 8 Oktober 2023
+Program ini adalah aplikasi sederhana untuk mengkonversi jumlah detik ke dalam format jam, menit, dan detik. Program ini ditulis dalam bahasa C++.
+
+## Penjelasan Singkat
+
+Program ini meminta pengguna untuk memasukkan jumlah detik dalam rentang 0 hingga 999999. Kemudian, program akan mengkonversi jumlah detik tersebut ke dalam format hari, jam, menit, dan detik. Berikut adalah rumus yang digunakan:
+
+- Jumlah Hari (H) = n / 86400
+- Sisa Detik dalam Hari (rH) = n % 86400
+- Jumlah Jam (J) = rH / 3600
+- Sisa Detik dalam Jam (rJ) = rH % 3600
+- Jumlah Menit (M) = rJ / 60
+- Detik (D) = rJ % 60
+
+Hasil konversi akan ditampilkan di layar.
+
+## Cara Menggunakan
+
+1. Clone repositori ini ke komputer Anda:
+
+   ```shell
+   git clone https://github.com/username/repo.git
+   ```
+
+2. Compile program C++:
+
+   ```shell
+   g++ main.cpp -o konversi_jam_detik
+   ```
+
+3. Jalankan program:
+
+   ```shell
+   ./konversi_jam_detik
+   ```
+
+4. Ikuti petunjuk yang muncul di layar untuk memasukkan jumlah detik yang ingin Anda konversi.
 
