@@ -16,7 +16,7 @@ Hasil perhitungan jarak kemudian ditampilkan di layar.
 ```
 ## Cara Menggunakan
 
-1)Clone repositori ini ke komputer Anda:
+1) Clone repositori ini ke komputer Anda:
 
    ```shell
    git clone https://github.com/username/repo.git
@@ -63,7 +63,7 @@ Hasil konversi akan ditampilkan di layar.
 ```
 ##Cara Menggunakan
 
-1)Clone repositori ini ke komputer Anda:
+1) Clone repositori ini ke komputer Anda:
 
    ```shell
    git clone https://github.com/username/repo.git
