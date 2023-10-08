@@ -13,28 +13,28 @@ jarak = sqrt((x1 - x2)^2 + (y1 - y2)^2)
 ```
 
 Hasil perhitungan jarak kemudian ditampilkan di layar.
-
+```
 ## Cara Menggunakan
 
-1. Clone repositori ini ke komputer Anda:
+1)Clone repositori ini ke komputer Anda:
 
    ```shell
    git clone https://github.com/username/repo.git
    ```
 
-2. Compile program C++:
+2) Compile program C++:
 
    ```shell
    g++ main.cpp -o jarak_dua_titik
    ```
 
-3. Jalankan program:
+3) Jalankan program:
 
    ```shell
    ./jarak_dua_titik
    ```
 
-4. Ikuti petunjuk yang muncul di layar untuk memasukkan koordinat titik-titik yang ingin Anda hitung jaraknya.
+4) Ikuti petunjuk yang muncul di layar untuk memasukkan koordinat titik-titik yang ingin Anda hitung jaraknya.
 
 
 
@@ -60,25 +60,26 @@ Program ini meminta pengguna untuk memasukkan jumlah detik dalam rentang 0 hingg
 
 Hasil konversi akan ditampilkan di layar.
 
-## Cara Menggunakan
+```
+##Cara Menggunakan
 
-1. Clone repositori ini ke komputer Anda:
+1)Clone repositori ini ke komputer Anda:
 
    ```shell
    git clone https://github.com/username/repo.git
    ```
 
-2. Compile program C++:
+2) Compile program C++:
 
    ```shell
    g++ main.cpp -o konversi_jam_detik
    ```
 
-3. Jalankan program:
+3) Jalankan program:
 
    ```shell
    ./konversi_jam_detik
    ```
 
-4. Ikuti petunjuk yang muncul di layar untuk memasukkan jumlah detik yang ingin Anda konversi.
+4) Ikuti petunjuk yang muncul di layar untuk memasukkan jumlah detik yang ingin Anda konversi.
 
