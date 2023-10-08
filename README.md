@@ -61,7 +61,7 @@ Program ini meminta pengguna untuk memasukkan jumlah detik dalam rentang 0 hingg
 Hasil konversi akan ditampilkan di layar.
 
 ```
-##Cara Menggunakan
+## Cara Menggunakan
 
 1) Clone repositori ini ke komputer Anda:
 
